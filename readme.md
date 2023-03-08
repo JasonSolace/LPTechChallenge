@@ -23,6 +23,8 @@ This was a very fun project, and although I was tearing my head off attempting t
 
 -------HOW TO SET UP--------------
 
+1. *MAKE SURE YOU HAVE THE LATEST VERSION OF NODE.JS INSTALLED!*
+
 I was able to test this using a XAMPP server with Apache and MySQL on. Here's how I did it:
 1. Start XAMPP Apache and MySQL
 2. Access localhost/phpmyadmin and create the Database. From here, add the SQL file given with this challenge.
