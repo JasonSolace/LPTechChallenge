@@ -42,7 +42,7 @@ After this, it is time to start the front-end client that runs on React:
 3. At this point, we can start the frontend by typing "npm start"
 4. Once this server starts up, it is hosted on what seems like the React default port at localhost:3000. Here, you should be able to see the chart incrementing through and updating every 1 second.
 
-Here's a video of it in action: YOUTUBE LINK GOES HERE
+Here's a video of it in action: https://youtu.be/5JPAirv2hQM
 -----------------------------------------
 Final note: I apologize if there's a better way of installing and starting these libraries. React is still pretty new to me as is Node.JS, but I was able to grasp enough to finish this project through the course of a work day. I didn't include the time writing this ReadMe in there nor my time testing this on a different computer to make sure it works, but if we were, I'd say I spent another 1.5 hours on it.
 
